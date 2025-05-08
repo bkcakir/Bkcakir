@@ -22,7 +22,13 @@ I am a technology enthusiast with a passion for software development. I am const
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical)
 
-## 🏆 Achievements
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkcakir&theme=radical&layout=compact&langs_count=8)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=bkcakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🎯 Achievements
 - Software development projects
 - Open source contributions
 - Technical blog posts
