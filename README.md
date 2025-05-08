@@ -19,11 +19,17 @@ I am a technology enthusiast with a passion for software development. I am const
 - GitHub: [@bkcakir](https://github.com/bkcakir)
 - LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bkcakir&theme=radical&layout=compact&langs_count=8)
+## 📊 GitHub Statistics & Languages
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkcakir&theme=radical&layout=compact&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=bkcakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
