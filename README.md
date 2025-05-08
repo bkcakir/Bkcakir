@@ -89,7 +89,7 @@ I am a passionate Backend Developer with a strong foundation in software develop
   <a href="https://linkedin.com/in/burakcakir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/bkcakir" target="_blank">
+  <a href="https://www.hackerrank.com/profile/bk_cakir" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="mailto:burak.kaan@domain.com" target="_blank">
