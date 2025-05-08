@@ -42,9 +42,9 @@ I am a passionate Backend Developer with a strong foundation in software develop
   <tr>
     <td>
       <h3>Featured Projects</h3>
-      - **[PetraAtik](https://github.com/bkcakir/petra)**: ASP.NET Core Admin<br>
-      - **[RestaurantApp](https://github.com/bkcakir/rest)**: User Management<br>
-      - **[RecyclingWeb](https://github.com/bkcakir/recycle)**: E-commerce
+      - **[PetraAtik](https://github.com/bkcakir/PetraAtik)**: ASP.NET Core MVC Admin Panel<br>
+      - **[RestaurantApp](https://github.com/bkcakir/RestaurantApp)**: Admin & User Management System<br>
+      - **[RecyclingWeb](https://github.com/bkcakir/RecyclingWeb)**: E-commerce Platform
     </td>
     <td>
       <h3>Goals</h3>
@@ -88,6 +88,9 @@ I am a passionate Backend Developer with a strong foundation in software develop
   </a>
   <a href="https://linkedin.com/in/burakcakir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/bkcakir" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
   <a href="mailto:burak.kaan@domain.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
