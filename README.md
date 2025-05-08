@@ -5,7 +5,7 @@ I am a technology enthusiast with a passion for software development. I am const
 
 ## 🛠️ Languages and Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,dotnet,cs,mysql,mongodb,git,docker,vscode,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,dotnet,cs,mysql,mongodb,git,docker,vscode,github" />
 </div>
 
 ## 💻 Technical Skills & Areas of Interest
@@ -67,9 +67,9 @@ I am a technology enthusiast with a passion for software development. I am const
   <tr>
     <td>
       <h3>Featured Projects</h3>
-      - **[PetraAtik - Admin Panel](https://github.com/bkcakir/PetraAtik-Admin)**: Admin panel developed with ASP.NET Core MVC<br>
-      - **[Restaurant Tracking System](https://github.com/bkcakir/RestaurantTracking)**: System with admin, database, and user modules<br>
-      - **[Recycling Company Website](https://github.com/bkcakir/RecyclingCompany)**: E-commerce and service pages
+      - **[PetraAtik](https://github.com/bkcakir/PetraAtik)**: ASP.NET Core MVC Admin Panel<br>
+      - **[RestaurantApp](https://github.com/bkcakir/RestaurantApp)**: Admin & User Management System<br>
+      - **[RecyclingWeb](https://github.com/bkcakir/RecyclingWeb)**: E-commerce Platform
     </td>
     <td>
       <h3>Goals</h3>
