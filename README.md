@@ -3,21 +3,25 @@
 ## 🚀 About Me
 I am a technology enthusiast with a passion for software development. I am constantly focused on learning and improving myself.
 
-## 💻 Technical Skills
-- **Programming Languages:** Python, JavaScript, TypeScript
-- **Web Technologies:** HTML5, CSS3, React
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, VS Code
-
-## 🌟 Areas of Interest
-- Artificial Intelligence and Machine Learning
-- Web Development
-- Mobile App Development
-- DevOps
-
-## 📫 Contact
-- GitHub: [@bkcakir](https://github.com/bkcakir)
-- LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
+## 💻 Technical Skills & Areas of Interest
+<table>
+  <tr>
+    <td>
+      <h3>Technical Skills</h3>
+      - **Programming Languages:** Python, JavaScript, TypeScript<br>
+      - **Web Technologies:** HTML5, CSS3, React<br>
+      - **Databases:** MySQL, MongoDB<br>
+      - **Tools & Platforms:** Git, Docker, VS Code
+    </td>
+    <td>
+      <h3>Areas of Interest</h3>
+      - Artificial Intelligence and Machine Learning<br>
+      - Web Development<br>
+      - Mobile App Development<br>
+      - DevOps
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Statistics & Languages
 <table>
@@ -34,32 +38,46 @@ I am a technology enthusiast with a passion for software development. I am const
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=bkcakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🎯 Achievements
-- Software development projects
-- Open source contributions
-- Technical blog posts
-
 ## 🎓 Education & Experience
-- **Education:** Kocaeli University - Associate Degree (Expected graduation: 2024)
-- **Current Role:** Junior Backend Developer
-- **Technologies:** ASP.NET, ASP.NET Core, Java, MSSQL, MySQL
-- **Languages:** Turkish (Native), English (Professional)
+<table>
+  <tr>
+    <td>
+      <h3>Education</h3>
+      - **Education:** Kocaeli University - Associate Degree (Expected graduation: 2024)<br>
+      - **Current Role:** Junior Backend Developer<br>
+      - **Languages:** Turkish (Native), English (Professional)
+    </td>
+    <td>
+      <h3>Professional Experience</h3>
+      - **Fika Software** - Junior Backend Developer (2023 - 2024)<br>
+      - Developed projects with ASP.NET Core<br>
+      - Supported e-commerce API projects<br>
+      - Database management (MSSQL, MySQL)
+    </td>
+  </tr>
+</table>
 
-## 💼 Professional Experience
-- **Fika Software** - Junior Backend Developer (2023 - 2024)
-  - Developed projects with ASP.NET Core
-  - Supported e-commerce API projects
-  - Database management (MSSQL, MySQL)
+## 📂 Featured Projects & Goals
+<table>
+  <tr>
+    <td>
+      <h3>Featured Projects</h3>
+      - **[PetraAtik - Admin Panel](link)**: Admin panel developed with ASP.NET Core MVC<br>
+      - **[Restaurant Tracking System](link)**: System with admin, database, and user modules<br>
+      - **[Recycling Company Website](link)**: E-commerce and service pages
+    </td>
+    <td>
+      <h3>Goals</h3>
+      - Learn different programming languages<br>
+      - Deepen expertise in backend development<br>
+      - Improve through new projects
+    </td>
+  </tr>
+</table>
 
-## 🎯 Goals
-- Learn different programming languages
-- Deepen expertise in backend development
-- Improve through new projects
-
-## 📂 Featured Projects
-- **[PetraAtik - Admin Panel](link)**: Admin panel developed with ASP.NET Core MVC
-- **[Restaurant Tracking System](link)**: System consisting of admin, database, and user website modules
-- **[Recycling Company Website](link)**: Website for a recycling company with e-commerce and service pages
+## 📫 Contact
+- GitHub: [@bkcakir](https://github.com/bkcakir)
+- LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
 
 ## 📝 License
 All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
