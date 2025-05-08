@@ -3,6 +3,11 @@
 ## 🚀 About Me
 I am a technology enthusiast with a passion for software development. I am constantly focused on learning and improving myself.
 
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,dotnet,cs,mysql,mongodb,git,docker,vscode,github,linux" />
+</div>
+
 ## 💻 Technical Skills & Areas of Interest
 <table>
   <tr>
@@ -79,10 +84,24 @@ I am a technology enthusiast with a passion for software development. I am const
 - GitHub: [@bkcakir](https://github.com/bkcakir)
 - LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
 
+## 🤝 Connect with Me
+<div align="center">
+  <a href="https://github.com/bkcakir" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/burakcakir" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:burak.kaan@domain.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/bkcakir" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
 ## 📝 License
 All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
 
 ---
 ⭐️ [bkcakir](https://github.com/bkcakir)
-
-
