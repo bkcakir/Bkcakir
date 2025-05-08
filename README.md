@@ -42,9 +42,9 @@ I am a passionate Backend Developer with a strong foundation in software develop
   <tr>
     <td>
       <h3>Featured Projects</h3>
-      - **[PetraAtik](https://github.com/bkcakir/PetraAtik)**: ASP.NET Core MVC Admin Panel<br>
-      - **[RestaurantApp](https://github.com/bkcakir/RestaurantApp)**: Admin & User Management System<br>
-      - **[RecyclingWeb](https://github.com/bkcakir/RecyclingWeb)**: E-commerce Platform
+      - **[PetraAtik](https://github.com/bkcakir/petra)**: ASP.NET Core Admin<br>
+      - **[RestaurantApp](https://github.com/bkcakir/rest)**: User Management<br>
+      - **[RecyclingWeb](https://github.com/bkcakir/recycle)**: E-commerce
     </td>
     <td>
       <h3>Goals</h3>
@@ -99,6 +99,3 @@ I am a passionate Backend Developer with a strong foundation in software develop
 
 ## 📝 License
 All rights to these projects belong to **Burak Kaan Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
-
-
-
