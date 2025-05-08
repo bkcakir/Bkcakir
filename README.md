@@ -1,46 +1,58 @@
-# Burak Kaan Çakır - Backend Developer
+# 👋 Hello, I'm Burak Çakır
 
-Merhaba! Ben **Burak Kaan Çakır**, Kocaeli Üniversitesi'nde **Önlisans** öğrencisi olarak eğitimime devam etmekteyim ve 2025 yılı itibariyle mezun olmayı planlıyorum. Şu an **Backend Web Developer** olarak gelişiyorum ve **Java**, **ASP.NET**, **ASP.NET Core** teknolojilerine hakimim.
+## 🚀 About Me
+I am a technology enthusiast with a passion for software development. I am constantly focused on learning and improving myself.
 
-## Hakkımda
+## 💻 Technical Skills
+- **Programming Languages:** Python, JavaScript, TypeScript
+- **Web Technologies:** HTML5, CSS3, React
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, Docker, VS Code
 
-- **Doğum Yılı:** 1997
-- **Eğitim:** Kocaeli Üniversitesi - Önlisans (2025 mezuniyet)
-- **Meslek:** Junior Backend Developer
-- **Teknolojiler:** ASP.NET, ASP.NET Core, Java, MSSQL, MySQL
-- **İlgi Alanları:** Backend Geliştirme, API Projeleri, Web Geliştirme
+## 🌟 Areas of Interest
+- Artificial Intelligence and Machine Learning
+- Web Development
+- Mobile App Development
+- DevOps
 
-### Geçmiş Deneyimlerim
-- **Fika Yazılım** - Junior Backend Developer (2023 - 2024)
-  - ASP.NET Core ile geliştirdiğim projeler
-  - E-ticaret API projelerinde destek
-  - Veritabanı yönetimi (MSSQL, MySQL)
+## 📫 Contact
+- GitHub: [@bkcakir](https://github.com/bkcakir)
+- LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
 
-### Yeteneklerim
-- **Backend Geliştirme:** ASP.NET Core, Java
-- **Veritabanı Yönetimi:** MSSQL, MySQL
-- **Tasarım ve Optimizasyon:** Bootstrap, PageSpeed optimizasyonu
-- **Dil Desteği:** Türkçe, İngilizce (Web uygulamaları)
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical)
 
-## Hedeflerim
-- Farklı programlama dillerini öğrenmek
-- Backend geliştirme alanında derinleşmek
-- Yeni projelerle kendimi geliştirmek
+## 🏆 Achievements
+- Software development projects
+- Open source contributions
+- Technical blog posts
 
-## GitHub'daki Projelerim
+## 🎓 Education & Experience
+- **Education:** Kocaeli University - Associate Degree (Expected graduation: 2024)
+- **Current Role:** Junior Backend Developer
+- **Technologies:** ASP.NET, ASP.NET Core, Java, MSSQL, MySQL
+- **Languages:** Turkish (Native), English (Professional)
 
-Benim projelerime göz atabilirsiniz! Özellikle **backend geliştirme** ve **API entegrasyonu** üzerine çalışmalar yapıyorum. Aşağıda bazı projelerimi bulabilirsiniz:
+## 💼 Professional Experience
+- **Fika Software** - Junior Backend Developer (2023 - 2024)
+  - Developed projects with ASP.NET Core
+  - Supported e-commerce API projects
+  - Database management (MSSQL, MySQL)
 
-- **[PetraAtik - Admin Paneli](link)**: ASP.NET Core MVC ile geliştirilmiş bir admin paneli.
-- **[Restoran Takip Sistemi](link)**: Admin, veritabanı ve kullanıcı web sitesi modüllerinden oluşan bir sistem.
-- **[Geri Dönüşüm Firması Web Sitesi](link)**: E-ticaret ve hizmet sayfaları içeren geri dönüşüm şirketi web sitesi.
+## 🎯 Goals
+- Learn different programming languages
+- Deepen expertise in backend development
+- Improve through new projects
 
-## İletişim
+## 📂 Featured Projects
+- **[PetraAtik - Admin Panel](link)**: Admin panel developed with ASP.NET Core MVC
+- **[Restaurant Tracking System](link)**: System consisting of admin, database, and user website modules
+- **[Recycling Company Website](link)**: Website for a recycling company with e-commerce and service pages
 
-- **LinkedIn:** [burmetech.com.tr](http://www.burmetech.com.tr)
-- **E-posta:** burak.kaan@domain.com (E-posta adresini buraya ekle)
+## 📝 License
+All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
 
-## Lisans
+---
+⭐️ [bkcakir](https://github.com/bkcakir)
 
-Bu projelerin tüm hakları **Burak Kaan Çakır**'a aittir. İzinsiz kullanım durumunda **5 katı ceza** uygulanacaktır. Yıllık telif ücreti hakkında bilgi almak için benimle iletişime geçebilirsiniz.
 
