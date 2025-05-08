@@ -67,9 +67,9 @@ I am a technology enthusiast with a passion for software development. I am const
   <tr>
     <td>
       <h3>Featured Projects</h3>
-      - **[PetraAtik - Admin Panel](link)**: Admin panel developed with ASP.NET Core MVC<br>
-      - **[Restaurant Tracking System](link)**: System with admin, database, and user modules<br>
-      - **[Recycling Company Website](link)**: E-commerce and service pages
+      - **[PetraAtik - Admin Panel](https://github.com/bkcakir/PetraAtik-Admin)**: Admin panel developed with ASP.NET Core MVC<br>
+      - **[Restaurant Tracking System](https://github.com/bkcakir/RestaurantTracking)**: System with admin, database, and user modules<br>
+      - **[Recycling Company Website](https://github.com/bkcakir/RecyclingCompany)**: E-commerce and service pages
     </td>
     <td>
       <h3>Goals</h3>
@@ -79,10 +79,6 @@ I am a technology enthusiast with a passion for software development. I am const
     </td>
   </tr>
 </table>
-
-## 📫 Contact
-- GitHub: [@bkcakir](https://github.com/bkcakir)
-- LinkedIn: [Burak Çakır](https://linkedin.com/in/burakcakir)
 
 ## 🤝 Connect with Me
 <div align="center">
@@ -103,5 +99,5 @@ I am a technology enthusiast with a passion for software development. I am const
 ## 📝 License
 All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
 
----
-⭐️ [bkcakir](https://github.com/bkcakir)
+
+
