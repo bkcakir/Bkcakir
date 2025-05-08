@@ -98,6 +98,3 @@ I am a technology enthusiast with a passion for software development. I am const
 
 ## 📝 License
 All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
-
-
-
