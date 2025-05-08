@@ -1,47 +1,7 @@
-# 👋 Hello, I'm Burak Çakır
+# 👋 Hello, I'm Burak Kaan Çakır
 
 ## 🚀 About Me
-I am a technology enthusiast with a passion for software development. I am constantly focused on learning and improving myself.
-
-## 🛠️ Languages and Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,dotnet,cs,mysql,mongodb,git,docker,vscode,github" />
-</div>
-
-## 💻 Technical Skills & Areas of Interest
-<table>
-  <tr>
-    <td>
-      <h3>Technical Skills</h3>
-      - **Programming Languages:** Python, JavaScript, TypeScript<br>
-      - **Web Technologies:** HTML5, CSS3, React<br>
-      - **Databases:** MySQL, MongoDB<br>
-      - **Tools & Platforms:** Git, Docker, VS Code
-    </td>
-    <td>
-      <h3>Areas of Interest</h3>
-      - Artificial Intelligence and Machine Learning<br>
-      - Web Development<br>
-      - Mobile App Development<br>
-      - DevOps
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Statistics & Languages
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkcakir&theme=radical&layout=compact&langs_count=8" />
-    </td>
-  </tr>
-</table>
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=bkcakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I am a passionate Backend Developer with a strong foundation in software development and a keen interest in creating efficient, scalable solutions. Currently pursuing my Associate Degree at Kocaeli University, I combine academic knowledge with practical experience to deliver high-quality applications. My expertise lies in ASP.NET Core and Java development, where I focus on building robust backend systems and RESTful APIs. I am constantly expanding my skill set and staying updated with the latest technologies to enhance my development capabilities.
 
 ## 🎓 Education & Experience
 <table>
@@ -58,6 +18,21 @@ I am a technology enthusiast with a passion for software development. I am const
       - Developed projects with ASP.NET Core<br>
       - Supported e-commerce API projects<br>
       - Database management (MSSQL, MySQL)
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=bkcakir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 📊 GitHub Statistics & Languages
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bkcakir&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkcakir&theme=radical&layout=compact&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -80,6 +55,32 @@ I am a technology enthusiast with a passion for software development. I am const
   </tr>
 </table>
 
+## 🛠️ Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,dotnet,cs,mysql,mongodb,git,docker,vscode,github" />
+</div>
+
+## 💻 Technical Skills & Areas of Interest
+<table>
+  <tr>
+    <td>
+      <h3>Technical Skills</h3>
+      - **Backend Development:** ASP.NET Core, Java<br>
+      - **Web Technologies:** HTML5, CSS3, JavaScript<br>
+      - **Databases:** MySQL, MongoDB<br>
+      - **Tools & Platforms:** Git, Docker, VS Code<br>
+      - **Version Control:** GitHub, GitLab
+    </td>
+    <td>
+      <h3>Areas of Interest</h3>
+      - Backend Development & API Design<br>
+      - Database Management & Optimization<br>
+      - Software Architecture<br>
+      - DevOps & CI/CD
+    </td>
+  </tr>
+</table>
+
 ## 🤝 Connect with Me
 <div align="center">
   <a href="https://github.com/bkcakir" target="_blank">
@@ -97,4 +98,7 @@ I am a technology enthusiast with a passion for software development. I am const
 </div>
 
 ## 📝 License
-All rights to these projects belong to **Burak Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
+All rights to these projects belong to **Burak Kaan Çakır**. Unauthorized use will result in a **5x penalty**. Contact me for information about annual licensing fees.
+
+
+
